@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Ankit 👋
 
-<!--
-**Ankit01-ai-web/Ankit01-ai-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MCA Student  
+Aspiring Software Developer / ML Enthusiast / Full Stack Developer 
 
-Here are some ideas to get you started:
+# Skills
+- Python
+- Machine Learning
+- OpenCV
+- Streamlit
+- Data Structures
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Projects
+🔹 AI Image Enhancer  
+🔹 Job Placement Prediction System  
+
+# Connect with me
+- LinkedIn: (https://www.linkedin.com/in/ankit-negi-a43170288/)
