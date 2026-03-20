@@ -1,17 +1,19 @@
 # Hi, I'm Ankit 👋
+Seeking   a   role   in   an   organization   where   I   can   showcase   my   technical skills,  problem - solving   and   decision - making   skills   to contribute to the growth   of the company and enhance my knowledge and experience . 
 
 MCA Student  
-Aspiring Software Developer / ML Enthusiast / Full Stack Developer 
+Full Stack Developer 
 
 # Skills
 - Python
 - Machine Learning
-- OpenCV
 - Streamlit
 - Data Structures
+- Node.js, Express.js
+- MySQL
 
 # Projects
-🔹 AI Image Enhancer  
+🔹 Smart job Portal System  
 🔹 Job Placement Prediction System  
 
 # Connect with me
